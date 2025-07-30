@@ -58,7 +58,7 @@ binary, the native Cargo `--features` flag for its build command is used, so it 
 developers.
 
 There have been a paper[^2] and another proposal[^1] to build multicall binaries based on LLVM.
-One possibility is to leveraeg the intermediate representation (IR) used during the compile process.
+One possibility is to leverage the intermediate representation (IR) during the compile process.
 Using LLVM has the benefit that it serves as a backend to multiple language frontends. That would
 possibly allow for having both Rust and C code packed into one binary.
 
