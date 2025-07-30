@@ -2,7 +2,8 @@
 
 There have been several approachaes over the years to create binaries (on Unix like systems) that can
 include multiple commands, such as [BusyBox](https://busybox.net/), commonly called _multicall_
-binaries. Alternatively, this idea is called software multiplexinng[^2] or "BusyBox-like".
+binaries. Alternatively, this idea is called _software multiplexing_[^2], "_BusyBox-like_", or a
+[_crunched binary_](https://man.freebsd.org/cgi/man.cgi?query=crunchgen&sektion=1).
 
 ## Why?
 
